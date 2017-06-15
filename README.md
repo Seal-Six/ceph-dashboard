@@ -1,5 +1,5 @@
 # ceph-dashboard - a free ceph dashboard 
-Based on https://github.com/Crapworks/ceph-dash and rewrite using golang.
+Based on [ceph-dash](https://github.com/Crapworks/ceph-dash) and rewrite using golang.
 
 # Easy deployment
 All js, css and image resource files are compiled into a single executive file, it is very easy to deploy.
