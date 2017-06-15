@@ -1,4 +1,4 @@
-# ceph-dashboard - a free ceph dashboard 
+# ceph-dashboard - easy deployment ceph dashboard 
 Based on [ceph-dash](https://github.com/Crapworks/ceph-dash) and rewrite using golang.
 
 # Easy deployment
