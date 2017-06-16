@@ -1,6 +1,7 @@
 # ceph-dashboard - easy deployment ceph dashboard 
 [![Release Version](https://img.shields.io/badge/release-1.0.0-red.svg)](https://github.com/yaozongyou/ceph-dashboard/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yaozongyou/ceph-dashboard/pulls)
+
 Based on [ceph-dash](https://github.com/Crapworks/ceph-dash) and rewrite using golang.
 
 # Easy deployment
