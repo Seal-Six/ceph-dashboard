@@ -2,7 +2,7 @@
 [![Release Version](https://img.shields.io/badge/release-1.0.0-red.svg)](https://github.com/yaozongyou/ceph-dashboard/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yaozongyou/ceph-dashboard/pulls)
 
-Single executive file, Easy to deploy, and it is Free.
+Viewing ceph's overall health status, Single executive file, Easy to deploy, and it is Free.
 
 # How to build
 
