@@ -2,7 +2,7 @@
 [![Release Version](https://img.shields.io/badge/release-1.0.0-red.svg)](https://github.com/yaozongyou/ceph-dashboard/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yaozongyou/ceph-dashboard/pulls)
 
-Based on [ceph-dash](https://github.com/Crapworks/ceph-dash) and rewrite using golang.
+Single executive file, Easy to deploy, and it is Free.
 
 # How to build
 
@@ -39,3 +39,7 @@ Just open http://address:8080/ in your browser.
 # Screenshot
 
 ![ceph dashboard screenshot](/screenshot/ceph_dashboard_screenshot.png)
+
+# Thanks
+
+The initial version of ceph-dashboard is based on [ceph-dash](https://github.com/Crapworks/ceph-dash). ceph-dash is awesome, has a lot of great features. But ceph-dash is hard to deploy, especially in internal environment which has no internet connection.
