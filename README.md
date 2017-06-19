@@ -2,7 +2,7 @@
 [![Release Version](https://img.shields.io/badge/release-1.0.0-red.svg)](https://github.com/yaozongyou/ceph-dashboard/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yaozongyou/ceph-dashboard/pulls)
 
-Viewing ceph's overall health status, Single executive file, Easy to deploy, and it is Free.
+Viewing ceph's overall health status, Single executable file, Easy to deploy, and it is Free.
 
 # How to build
 
@@ -27,7 +27,7 @@ go get github.com/yaozongyou/ceph-dashboard
 
 # Easy deployment
 
-All js, css and image resource files are compiled into a single executive file, it is very easy to deploy.
+All js, css and image resource files are compiled into a single executable file, it is very easy to deploy.
 Run ceph dashboard with the following command:
 
 ```bash
